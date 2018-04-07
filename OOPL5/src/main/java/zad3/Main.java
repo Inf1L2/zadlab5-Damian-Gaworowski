@@ -1,4 +1,4 @@
-package pl.edu.ur.oopl5;
+package zad3;
 
 
 import java.util.Scanner;

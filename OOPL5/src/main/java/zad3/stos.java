@@ -1,5 +1,5 @@
 
-package pl.edu.ur.oopl5;
+package zad3;
 
 /**
  *
