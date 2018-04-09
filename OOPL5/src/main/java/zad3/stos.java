@@ -7,7 +7,8 @@ package zad3;
  */
 public class stos {
  
-    // Zdefiniowanie tablicy i elementów odpowiedzialnych za wierzchołek.
+    
+
     double[] tab;
     int ws;
  
